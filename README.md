@@ -36,6 +36,13 @@ com.example.quotify
 └── MainActivity.kt     # Entry point of the application
 ```
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/home.png" width="300" alt="Home Screen" />
+  <img src="screenshots/explore.png" width="300" alt="Explore Screen" />
+</div>
+
 ## 🗺️ Roadmap (Upcoming Features)
 
 - [ ] **Explore Screen:** Implementation of category-based quote filtering.
