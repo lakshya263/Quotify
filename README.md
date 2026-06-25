@@ -39,8 +39,8 @@ com.example.quotify
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="/Users/lakshyasrivastava/StudioProjects/Quotify/app/src/main/res/screenshots/explore.png" width="300" alt="Home Screen" />
-  <img src="/Users/lakshyasrivastava/StudioProjects/Quotify/app/src/main/res/screenshots/home.png" width="300" alt="Explore Screen" />
+  <img src="app/src/main/res/screenshots/home.png" width="300" alt="Home Screen" />
+  <img src="app/src/main/res/screenshots/explore.png" width="300" alt="Explore Screen" />
 </div>
 
 ## 🗺️ Roadmap (Upcoming Features)
