@@ -1,16 +1,18 @@
 # Quotify 📖
 
-**Quotify** is a modern, visually appealing Android application built with Jetpack Compose. It serves as a discovery platform for inspiring quotes, categorized by themes like Love, Motivation, Success, and Wisdom. The app features a sleek UI with dynamic gradients, custom typography, and smooth navigation.
+**Quotify** is a modern, visually appealing Android application built with Jetpack Compose. It serves as a discovery platform for inspiring quotes, featuring a sleek UI with dynamic gradients, custom typography, and smooth navigation.
 
-## 🚀 Features
+> [!NOTE]
+> This project is currently a **Work in Progress**. Core UI and navigation are implemented, while data persistence and specific screens are under active development.
 
-- **Quote Discovery:** Browse a curated list of latest and trending quotes.
-- **Categorized Content:** Explore quotes based on specific categories like Business, Life, Wisdom, and more.
-- **Dynamic UI:** Beautifully designed quote cards with unique linear gradients.
-- **Interactive Navigation:** Seamless transitions between Home and Explore screens using Jetpack Navigation.
-- **Modern Styling:** Integrated custom **Poppins** fonts and Material Design 3 components.
-- **Image Integration:** Efficient image loading using the **Coil** library.
-- **Edge-to-Edge Experience:** Fully immersive UI that utilizes the entire screen real estate.
+## 🚀 Features (Implemented)
+
+- **Quote Discovery:** Browse a curated list of latest and trending quotes on the Home screen.
+- **Visual Aesthetic:** Beautifully designed quote cards with unique linear gradients and Material Design 3 components.
+- **Custom Typography:** Integrated **Poppins** font family for a premium reading experience.
+- **Modern Image Loading:** Efficient asynchronous image fetching using **Coil 3**.
+- **Edge-to-Edge Experience:** Fully immersive UI utilizing the entire screen real estate.
+- **Navigation:** Basic infrastructure using **Jetpack Navigation Component**.
 
 ## 🛠 Tech Stack
 
@@ -34,9 +36,12 @@ com.example.quotify
 └── MainActivity.kt     # Entry point of the application
 ```
 
-## 📸 Screenshots
+## 🗺️ Roadmap (Upcoming Features)
 
-*(Add your screenshots here)*
+- [ ] **Explore Screen:** Implementation of category-based quote filtering.
+- [ ] **Saved Screen:** A dedicated space for users to view their bookmarked quotes.
+- [ ] **Local Persistence:** Integration of **Room Database** for saving quotes offline.
+- [ ] **Sharing:** Ability to export quote cards as images or text.
 
 ## 🏁 Getting Started
 
